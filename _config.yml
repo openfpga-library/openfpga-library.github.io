@@ -58,7 +58,7 @@ minima:
 header_pages: ['']
 
 # Build settings
-remote_theme: openfpga-cores-inventory/theme
+remote_theme: jekyll/minima
 
 plugins:
  - jekyll-feed
