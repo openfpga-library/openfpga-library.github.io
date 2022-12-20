@@ -30,9 +30,9 @@ url: https://openfpga-cores-inventory.github.io # the base hostname & protocol f
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# Minima date format
+# Bootstrap date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
+bootstrap:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
@@ -55,11 +55,13 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages: ['']
+header_pages:
+  - analogue-pocket.md
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: joshcampbell191/jekyll-theme-bootstrap
 
 plugins:
  - jekyll-feed
+ - jekyll-paginate
  - jekyll-seo-tag
