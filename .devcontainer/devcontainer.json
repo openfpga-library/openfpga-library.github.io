@@ -8,9 +8,13 @@
     "ghcr.io/devcontainers/features/node:1": {}
   },
   // Add the IDs of extensions you want installed when the container is created.
-  "extensions": [
-    "editorconfig.editorconfig"
-  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "editorconfig.editorconfig"
+      ]
+    }
+  },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [
     // Jekyll server
