@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: openFPGA Cores Inventory
+title: openFPGA Library
 author:
   name: Joshua Campbell
   email:
 description: > # this means to ignore newlines until "show_excerpts:"
   This site was created to document openFPGA cores and their related devices.
 
-domain: openfpga-cores-inventory.github.io
-url: https://openfpga-cores-inventory.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: openfpga-library.github.io
+url: https://openfpga-library.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
