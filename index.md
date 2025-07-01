@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: openFPGA Cores Inventory
+title: openFPGA Library
 ---
 ## Devices
 - [Analogue Pocket](/analogue-pocket/)
