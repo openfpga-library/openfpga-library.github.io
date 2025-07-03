@@ -1,5 +1,5 @@
 # openFPGA Library
-openFPGA Cores Inventory is the premier destination for keeping track of cores built with [openFPGA](https://www.analogue.co/developer).
+openFPGA Library is the premier destination for keeping track of cores built with [openFPGA](https://www.analogue.co/developer).
 
 ## Installation
 You will need to install [Ruby](https://www.ruby-lang.org/en/documentation/installation/), then run the following command in the root of the project:
